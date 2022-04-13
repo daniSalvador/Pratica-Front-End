@@ -3,7 +3,7 @@ Portiffolio do desenvolvedor
 
 # Tarefas
 
-O controle de tarefas desse projeto será reqalizado no GitHub
+O controle de tarefas desse projeto será realizado no GitHub
 
 ## Ícones 
 
